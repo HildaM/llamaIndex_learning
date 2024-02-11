@@ -1,3 +1,4 @@
 OpenAI
 llama-index
 transformers
+pypdf
