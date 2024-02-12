@@ -21,4 +21,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 ## LLM Seting
 I will use OpenAI as the interface for access LLM, but that desn't mean I will use "openai".
+
 Actually, I run LLM locally using LM Studio. LM Studio server can give 'OpenAI-Like' API interface for user.
+
+The Local LLM I use mainly is the "mistral-7b-instruct-v0.2.Q6_K"
